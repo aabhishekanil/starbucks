@@ -1,0 +1,25 @@
+.logomain{
+    width: 3%;
+    
+}
+.navbt{
+    border-radius: 100px;
+}
+.navborder{
+    border-bottom:groove;
+}
+.pageimg{
+    width: 100%;
+}
+
+ .text{
+    padding-top: 15%;
+ }
+ .text1{
+    text-align: center;
+    margin-top: 60px;
+ }
+ .footerlist{
+    border-top:groove;
+    border-bottom:groove;
+ }
